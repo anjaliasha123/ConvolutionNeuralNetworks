@@ -2,7 +2,7 @@
 Repo wrt Computer Vision
 
 | Year | Authors | Paper | Code | Link |
-| --- | --- | | | |
+| --- | --- | --- | --- | --- |
 | 1998/9 | LeCun | Object Recognition with Gradient-Based Learning | | |
 
 
