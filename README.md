@@ -1,10 +1,10 @@
 # ConvolutionNeuralNetworks
 Repo wrt Computer Vision
 
-| Command | Description |
+| Year | Authors | Paper | Code | Link
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| 1998/9 | LeCun | Object Recognition with Gradient-Based Learning | | |
+
 
 #References
 <ol>
